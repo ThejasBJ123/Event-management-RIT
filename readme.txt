@@ -1,4 +1,4 @@
-**admin login**
+admin login
 
 name:admin
 pass:admin
