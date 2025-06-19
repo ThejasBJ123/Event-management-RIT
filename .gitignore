@@ -1,0 +1,37 @@
+# PHP
+*.php~
+*.php.swp
+*.php.swo
+
+# Database
+*.sql~
+*.sql.swp
+*.sql.swo
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Build files
+dist/
+build/
+node_modules/
+vendor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database credentials and sensitive files
+db_config.php
+config.php
